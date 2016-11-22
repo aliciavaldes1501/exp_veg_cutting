@@ -1,0 +1,3 @@
+Study based on an experimental design to assess the effect of vegetation cutting in seed predation and reproductive output.
+
+The experiment was performed in two populations of the perennial plant Gentiana pneumonanthe where the butterfly seed predator Phengaris alcon was present. There were two treatments: one where all vegetation but Gentiana plants were cut (Cut), and one where nothing was done (Uncut or Control). The experiment was performed in population "Högsjön" in 2015 (5 plots/treatment, 10 plants per plot) and in population "Remmene" in 2016 (10 plots/treatment, <20 plants per plot). 
